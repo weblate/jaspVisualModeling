@@ -1,0 +1,10 @@
+Package: VisualModeling
+Type: Package
+Title: Visual Modeling (Beta) Module for JASP
+Version: 0.0.1
+Date: 2020-04-08
+Author: Dustin Fife
+Website: github.com/dustinfife/flexplot
+Maintainer: Dustin Fife <fife.dustin@gmail.com>
+Description: Graphically-Based Data Analysis
+License: GPL (>= 2)

@@ -1,0 +1,4 @@
+export(flexplot)
+export(linmod)
+export(mixedmod)
+export(glinmod)
