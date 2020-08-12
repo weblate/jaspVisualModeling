@@ -4,7 +4,7 @@ import JASP.Module 	1.0
 Description
 {
 	title :         qsTr("Visual Modeling (Beta)")
-	name :          "VisualModeling"
+	name :          "jaspVisualModeling"
 	description:    qsTr("Graphically-Based Data Analysis")
 	version:        "0.0.1"
 	author:         "Dustin Fife"
