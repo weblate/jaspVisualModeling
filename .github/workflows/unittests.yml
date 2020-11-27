@@ -30,5 +30,9 @@ jobs:
       - uses: jasp-stats/jasp-actions/setup-test-env@master
 
       - name: Run unit tests
-        run: source("tests/testthat.R")
+        run: |
+          testfile <- file.path("tests", "testthat.R")
+          if (file.exists(testfile)) {
+            source(testfile)
+          }
         shell: Rscript {0}
