@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: en_US\n"
+"X-Source-Language: American English\n"
+"X-Qt-Contexts: true\n"
+
+msgctxt "Description|"
+msgid "Visual Modeling"
+msgstr "Visueel modelleren"
+
+msgctxt "Description|"
+msgid "Graphically-Based Data Analysis"
+msgstr "Grafisch georiënteerde Data Analyse"
+
+msgctxt "Description|"
+msgid "Flexplot"
+msgstr "Flexplot"
+
+msgctxt "Description|"
+msgid "Linear Modeling"
+msgstr "Lineair Modelleren"
+
+msgctxt "Description|"
+msgid "Mixed Modeling"
+msgstr "Gemengd Modelleren"
+
+msgctxt "Description|"
+msgid "Generalized Linear Modeling"
+msgstr "Gegeneraliseerd Lineair Modelleren"
+
+msgctxt "Flexplot|"
+msgid "Dependent Variable"
+msgstr "Afhankelijke variabele"
+
+msgctxt "Flexplot|"
+msgid "Independent Variable(s)"
+msgstr "Onafhankelijke variabele(n)"
+
+msgctxt "Flexplot|"
+msgid "Paneled Variable(s)"
+msgstr "Paneel variabele(n)"
+
+msgctxt "Flexplot|"
+msgid "Options"
+msgstr "Opties"
+
+msgctxt "Flexplot|"
+msgid "<br><strong>Point controls</br></strong>"
+msgstr "<br><strong>Puntbediening</br></strong></strong>"
+
+msgctxt "Flexplot|"
+msgid "Point transparency"
+msgstr "Punt transparantie"
+
+msgctxt "Flexplot|"
+msgid "Jitter in X"
+msgstr "Jitter in X"
+
+msgctxt "Flexplot|"
+msgid "Jitter in Y"
+msgstr "Jitter in Y"
+
+msgctxt "Flexplot|"
+msgid "<strong>Visual Statistics</strong>"
+msgstr "<strong>Visuele Statistieken</strong>"
+
+msgctxt "Flexplot|"
+msgid "Plot confidence bands"
+msgstr "Toon betrouwbaarheidslint"
+
+msgctxt "Flexplot|"
+msgid "Fitted line (scatterplots)"
+msgstr "Passende lijn (puntdiagrammen)"
+
+msgctxt "Flexplot|"
+msgid "Intervals (categorical predictors)"
+msgstr "Intervallen (categorische voorspellers)"
+
+msgctxt "Flexplot|"
+msgid "<br><strong>Other Plot Controls</strong>"
+msgstr "<br><strong>Andere plot opties</strong>"
+
+msgctxt "Flexplot|"
+msgid "GGplot theme"
+msgstr "GGplot thema"
+
+msgctxt "Flexplot|"
+msgid "Color Palette"
+msgstr "Kleurenpalet"
+
+msgctxt "Flexplot|"
+msgid "Convert to grayscale"
+msgstr "Converteren naar grijswaarden"
+
+msgctxt "Flexplot|"
+msgid "Ghost lines"
+msgstr "Spooklijnen"
+
+msgctxt "Flexplot|"
+msgid "Plot Labels"
+msgstr "Grafiek Labels"
+
+msgctxt "Flexplot|"
+msgid "<br><strong>Plot Labels</strong>"
+msgstr "<br> <strong>Grafiek Labels</strong>"
+
+msgctxt "glinmod|"
+msgid "Dependent Variable"
+msgstr "Afhankelijke variabele"
+
+msgctxt "glinmod|"
+msgid "Independent Variable(s)"
+msgstr "Onafhankelijke variabele(n)"
+
+msgctxt "glinmod|"
+msgid "Distribution family"
+msgstr "Verdelings familie"
+
+msgctxt "glinmod|"
+msgid "Interaction terms"
+msgstr "Interactie termen"
+
+msgctxt "glinmod|"
+msgid "Components"
+msgstr "Componenten"
+
+msgctxt "glinmod|"
+msgid "Model terms"
+msgstr "Modeltermen"
+
+msgctxt "glinmod|"
+msgid "Results Displays"
+msgstr "Resultaatschermen"
+
+msgctxt "glinmod|"
+msgid "Plots"
+msgstr "Grafieken"
+
+msgctxt "glinmod|"
+msgid "Model plot"
+msgstr "Model grafiek"
+
+msgctxt "glinmod|"
+msgid "Univariates"
+msgstr "Univariaten"
+
+msgctxt "glinmod|"
+msgid "Estimation"
+msgstr "Schatting"
+
+msgctxt "glinmod|"
+msgid "Show parameter Estimates"
+msgstr "Toon parameterschattingen"
+
+msgctxt "glinmod|"
+msgid "Plot Controls"
+msgstr "Plot controles"
+
+msgctxt "glinmod|"
+msgid "Point controls"
+msgstr "Puntbediening"
+
+msgctxt "glinmod|"
+msgid "Point transparency"
+msgstr "Punt transparantie"
+
+msgctxt "glinmod|"
+msgid "Jitter in X"
+msgstr "Jitter in X"
+
+msgctxt "glinmod|"
+msgid "Jitter in Y"
+msgstr "Jitter in Y"
+
+msgctxt "glinmod|"
+msgid "Aesthetics"
+msgstr "Esthetica"
+
+msgctxt "glinmod|"
+msgid "GGplot theme"
+msgstr "GGplot thema"
+
+msgctxt "glinmod|"
+msgid "Ghost lines"
+msgstr "Spooklijnen"
+
+msgctxt "linmod|"
+msgid "Dependent Variable"
+msgstr "Afhankelijke variabele"
+
+msgctxt "linmod|"
+msgid "Independent Variable(s)"
+msgstr "Onafhankelijke variabele(n)"
+
+msgctxt "linmod|"
+msgid "Model Terms"
+msgstr "Modeltermen"
+
+msgctxt "linmod|"
+msgid "Components"
+msgstr "Componenten"
+
+msgctxt "linmod|"
+msgid "Model terms"
+msgstr "Modeltermen"
+
+msgctxt "linmod|"
+msgid "Visual Fitting"
+msgstr "Visueel Passen"
+
+msgctxt "linmod|"
+msgid "Fitted line (scatterplots)"
+msgstr "Passende lijn (puntdiagrammen)"
+
+msgctxt "linmod|"
+msgid "Results Displays"
+msgstr "Resultaatschermen"
+
+msgctxt "linmod|"
+msgid "Plots"
+msgstr "Grafieken"
+
+msgctxt "linmod|"
+msgid "Model plot"
+msgstr "Model grafiek"
+
+msgctxt "linmod|"
+msgid "Univariate"
+msgstr "Univariaat"
+
+msgctxt "linmod|"
+msgid "Diagnostics"
+msgstr "Diagnostieken"
+
+msgctxt "linmod|"
+msgid "Added variable plot"
+msgstr "Variabele plot toegevoegd"
+
+msgctxt "linmod|"
+msgid "Estimation"
+msgstr "Schatting"
+
+msgctxt "linmod|"
+msgid "Show model comparisons"
+msgstr "Toon model vergelijkingen"
+
+msgctxt "linmod|"
+msgid "Report means"
+msgstr "Rapporteer gemiddelden"
+
+msgctxt "linmod|"
+msgid "Show mean differences"
+msgstr "Toon gemiddelde verschillen"
+
+msgctxt "linmod|"
+msgid "Show slopes/intercepts"
+msgstr "Toon hellingen/onderbrekingen"
+
+msgctxt "linmod|"
+msgid "Show 95% intervals"
+msgstr "Toon 95% intervallen"
+
+msgctxt "linmod|"
+msgid "Show p-values"
+msgstr "Toon p-waarden"
+
+msgctxt "linmod|"
+msgid "Plot Controls"
+msgstr "Plot controles"
+
+msgctxt "linmod|"
+msgid "Point controls"
+msgstr "Puntbediening"
+
+msgctxt "linmod|"
+msgid "Point transparency"
+msgstr "Punt transparantie"
+
+msgctxt "linmod|"
+msgid "Jitter in X"
+msgstr "Jitter in X"
+
+msgctxt "linmod|"
+msgid "Jitter in Y"
+msgstr "Jitter in Y"
+
+msgctxt "linmod|"
+msgid "Aesthetics"
+msgstr "Uiterlijk"
+
+msgctxt "linmod|"
+msgid "GGplot theme"
+msgstr "GGplot thema"
+
+msgctxt "linmod|"
+msgid "Convert to grayscale"
+msgstr "Converteren naar grijswaarden"
+
+msgctxt "linmod|"
+msgid "Ghost lines"
+msgstr "Spooklijnen"
+
+msgctxt "mixedmod|"
+msgid "Dependent Variable"
+msgstr "Afhankelijke variabele"
+
+msgctxt "mixedmod|"
+msgid "Independent Variable(s)"
+msgstr "Onafhankelijke variabele(n)"
+
+msgctxt "mixedmod|"
+msgid "Random"
+msgstr "Willekeurig"
+
+msgctxt "mixedmod|"
+msgid "Model Builder"
+msgstr "Modelbouwer"
+
+msgctxt "mixedmod|"
+msgid "Components"
+msgstr "Componenten"
+
+msgctxt "mixedmod|"
+msgid "Fixed terms"
+msgstr "Gefixeerde termen"
+
+msgctxt "mixedmod|"
+msgid "Results Displays"
+msgstr "Resultaatschermen"
+
+msgctxt "mixedmod|"
+msgid "Plots"
+msgstr "Grafieken"
+
+msgctxt "mixedmod|"
+msgid "Model plot"
+msgstr "Model grafiek"
+
+msgctxt "mixedmod|"
+msgid "Univariate plots"
+msgstr "Univariate grafieken"
+
+msgctxt "mixedmod|"
+msgid "Diagnostics"
+msgstr "Diagnostieken"
+
+msgctxt "mixedmod|"
+msgid "Estimation"
+msgstr "Schatting"
+
+msgctxt "mixedmod|"
+msgid "Report fixed effects"
+msgstr "Rapporteer gefixeerde effecten"
+
+msgctxt "mixedmod|"
+msgid "Report random effects"
+msgstr "Rapporteer willekeurige effecten"
+
+msgctxt "mixedmod|"
+msgid "Plot Controls"
+msgstr "Plot controles"
+
+msgctxt "mixedmod|"
+msgid "Point controls"
+msgstr "Puntbediening"
+
+msgctxt "mixedmod|"
+msgid "Point transparency"
+msgstr "Punt transparantie"
+
+msgctxt "mixedmod|"
+msgid "Jitter in X"
+msgstr "Jitter in X"
+
+msgctxt "mixedmod|"
+msgid "Jitter in Y"
+msgstr "Jitter in Y"
+
+msgctxt "mixedmod|"
+msgid "Other parameters"
+msgstr "Andere parameters"
+
+msgctxt "mixedmod|"
+msgid "GGplot theme"
+msgstr "GGplot thema"
+
+msgctxt "mixedmod|"
+msgid "Number of clusters"
+msgstr "Aantal clusters"
