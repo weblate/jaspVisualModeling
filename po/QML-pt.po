@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: en_US\n"
+"X-Source-Language: American English\n"
+"X-Qt-Contexts: true\n"
+
+#, fuzzy
+msgctxt "Flexplot|"
+msgid "Dependent Variable"
+msgstr "Variável Dependente"
+
+msgctxt "Flexplot|"
+msgid "Independent Variable(s)"
+msgstr ""
+
+#, fuzzy
+msgctxt "Flexplot|"
+msgid "Options"
+msgstr "Opções"
+
+msgctxt "Flexplot|"
+msgid "Point transparency"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Jitter in X"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Jitter in Y"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Plot confidence bands"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Fitted line (scatterplots)"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Intervals (categorical predictors)"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "GGplot theme"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Ghost lines"
+msgstr ""
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Dependent Variable"
+msgstr "Variável Dependente"
+
+msgctxt "glinmod|"
+msgid "Independent Variable(s)"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Distribution family"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Interaction terms"
+msgstr ""
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Components"
+msgstr "Componentes"
+
+msgctxt "glinmod|"
+msgid "Model terms"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Results Displays"
+msgstr ""
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Plots"
+msgstr "Diagramas"
+
+msgctxt "glinmod|"
+msgid "Model plot"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Univariates"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Estimation"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Show parameter Estimates"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Plot Controls"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Point controls"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Point transparency"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Jitter in X"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Jitter in Y"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Aesthetics"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "GGplot theme"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Ghost lines"
+msgstr ""
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Dependent Variable"
+msgstr "Variável Dependente"
+
+msgctxt "linmod|"
+msgid "Independent Variable(s)"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Model Terms"
+msgstr ""
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Components"
+msgstr "Componentes"
+
+msgctxt "linmod|"
+msgid "Model terms"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Visual Fitting"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Fitted line (scatterplots)"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Results Displays"
+msgstr ""
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Plots"
+msgstr "Diagramas"
+
+msgctxt "linmod|"
+msgid "Model plot"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Univariate"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Diagnostics"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Added variable plot"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Estimation"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show model comparisons"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Report means"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show mean differences"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show slopes/intercepts"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show 95% intervals"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Plot Controls"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Point controls"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Point transparency"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Jitter in X"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Jitter in Y"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Aesthetics"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "GGplot theme"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Ghost lines"
+msgstr ""
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Dependent Variable"
+msgstr "Variável Dependente"
+
+msgctxt "mixedmod|"
+msgid "Independent Variable(s)"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Random"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Model Builder"
+msgstr ""
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Components"
+msgstr "Componentes"
+
+msgctxt "mixedmod|"
+msgid "Fixed terms"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Results Displays"
+msgstr ""
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Plots"
+msgstr "Diagramas"
+
+msgctxt "mixedmod|"
+msgid "Model plot"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Univariate plots"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Diagnostics"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Estimation"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Report fixed effects"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Report random effects"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Plot Controls"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Point controls"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Point transparency"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Jitter in X"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Jitter in Y"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Other parameters"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "GGplot theme"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Number of clusters"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Paneled Variable(s)"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Visual Modeling"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Graphically-Based Data Analysis"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Flexplot"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Linear Modeling"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Mixed Modeling"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Generalized Linear Modeling"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "<br><strong>Point controls</br></strong>"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "<strong>Visual Statistics</strong>"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "<br><strong>Other Plot Controls</strong>"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Color Palette"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Convert to grayscale"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "Plot Labels"
+msgstr ""
+
+msgctxt "Flexplot|"
+msgid "<br><strong>Plot Labels</strong>"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show p-values"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Convert to grayscale"
+msgstr ""
