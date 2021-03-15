@@ -8,3 +8,5 @@ Website: github.com/dustinfife/flexplot
 Maintainer: Dustin Fife <fife.dustin@gmail.com>
 Description: Graphically-Based Data Analysis
 License: GPL (>= 2)
+Imports: flexplot
+Remotes: dustinfife/flexplot
