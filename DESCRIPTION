@@ -6,7 +6,7 @@ Date: 2020-04-08
 Author: Dustin Fife
 Website: github.com/dustinfife/flexplot
 Maintainer: Dustin Fife <fife.dustin@gmail.com>
-Description: Graphically-Based Data Analysis
+Description: Graphically explore the dependencies between variables
 License: GPL (>= 2)
 Imports: flexplot
 Remotes: dustinfife/flexplot
