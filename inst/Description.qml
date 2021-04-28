@@ -5,7 +5,7 @@ Description
 {
 	title :         qsTr("Visual Modeling")
 	name :          "Visual Modeling"
-	description:    qsTr("Graphically-Based Data Analysis")
+	description:    qsTr("Graphically explore the dependencies between variables")
 	version:        "0.0.1"
 	author:         "Dustin Fife"
 	icon:           "FlexplotLogo.svg"
