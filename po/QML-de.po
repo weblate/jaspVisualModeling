@@ -13,10 +13,6 @@ msgid "Visual Modeling"
 msgstr "Visuelles Modellieren"
 
 msgctxt "Description|"
-msgid "Graphically-Based Data Analysis"
-msgstr "Grafikbasierte Datenanalyse"
-
-msgctxt "Description|"
 msgid "Flexplot"
 msgstr "Flexplot"
 
@@ -391,3 +387,7 @@ msgstr "GGplot Farbschema"
 msgctxt "mixedmod|"
 msgid "Number of clusters"
 msgstr "Anzahl der Cluster"
+
+msgctxt "Description|"
+msgid "Graphically explore the dependencies between variables"
+msgstr ""
