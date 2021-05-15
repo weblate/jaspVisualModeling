@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2021-05-12 16:32+0000\n"
+"Last-Translator: Paulina Elizabeth Robalino <paulina.e.robalino@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/jasp/"
+"jaspvisualmodeling-qml/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 "X-Language: en_US\n"
 "X-Source-Language: American English\n"
 "X-Qt-Contexts: true\n"
@@ -46,7 +52,7 @@ msgstr "Opciones"
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Point controls</br></strong>"
-msgstr "<br><strong>Point controls</br></strong>"
+msgstr "<br><strong>Controles de Puntos</br></strong>"
 
 msgctxt "Flexplot|"
 msgid "Point transparency"
@@ -66,7 +72,7 @@ msgstr "<strong>Estadísticas visuales</strong>"
 
 msgctxt "Flexplot|"
 msgid "Plot confidence bands"
-msgstr "Trazar bandas de confianza"
+msgstr "Graficar bandas de confianza"
 
 msgctxt "Flexplot|"
 msgid "Fitted line (scatterplots)"
@@ -78,7 +84,7 @@ msgstr "Intervalos (predictores categóricos)"
 
 msgctxt "Flexplot|"
 msgid "<br><strong>Other Plot Controls</strong>"
-msgstr "Otros controles de gráfico"
+msgstr "<br><strong>Otros controles de gráfico</strong>"
 
 msgctxt "Flexplot|"
 msgid "GGplot theme"
@@ -130,7 +136,7 @@ msgstr "Términos modelo"
 
 msgctxt "glinmod|"
 msgid "Results Displays"
-msgstr "Vista de resultados"
+msgstr "Visualizar de resultados"
 
 msgctxt "glinmod|"
 msgid "Plots"
@@ -138,7 +144,7 @@ msgstr "Gráficos"
 
 msgctxt "glinmod|"
 msgid "Model plot"
-msgstr "Gráfico modelo"
+msgstr "Gráfico del modelo"
 
 msgctxt "glinmod|"
 msgid "Univariates"
@@ -194,7 +200,7 @@ msgstr "Variable(s) independiente(s)"
 
 msgctxt "linmod|"
 msgid "Model Terms"
-msgstr "Términos de modelo"
+msgstr "Términos del modelo"
 
 msgctxt "linmod|"
 msgid "Components"
@@ -202,7 +208,7 @@ msgstr "Componentes"
 
 msgctxt "linmod|"
 msgid "Model terms"
-msgstr "Términos de modelo"
+msgstr "Términos del modelo"
 
 msgctxt "linmod|"
 msgid "Visual Fitting"
@@ -214,7 +220,7 @@ msgstr "Línea ajustada (diagramas de dispersión)"
 
 msgctxt "linmod|"
 msgid "Results Displays"
-msgstr "Pantallas de resultados"
+msgstr "Visualizar resultados"
 
 msgctxt "linmod|"
 msgid "Plots"
@@ -222,7 +228,7 @@ msgstr "Gráficos"
 
 msgctxt "linmod|"
 msgid "Model plot"
-msgstr "Gráfico modelo"
+msgstr "Gráfico del modelo"
 
 msgctxt "linmod|"
 msgid "Univariate"
@@ -314,7 +320,7 @@ msgstr "Aleatorio"
 
 msgctxt "mixedmod|"
 msgid "Model Builder"
-msgstr "Constructor de modelos"
+msgstr "Crear modelos"
 
 msgctxt "mixedmod|"
 msgid "Components"
@@ -326,7 +332,7 @@ msgstr "Términos fijos"
 
 msgctxt "mixedmod|"
 msgid "Results Displays"
-msgstr "Pantallas de resultados"
+msgstr "Visualizar resultados"
 
 msgctxt "mixedmod|"
 msgid "Plots"
@@ -334,7 +340,7 @@ msgstr "Gráficos"
 
 msgctxt "mixedmod|"
 msgid "Model plot"
-msgstr "Gráfico modelo"
+msgstr "Gráfico del modelo"
 
 msgctxt "mixedmod|"
 msgid "Univariate plots"
@@ -390,4 +396,4 @@ msgstr "Cantidad de clusters"
 
 msgctxt "Description|"
 msgid "Graphically explore the dependencies between variables"
-msgstr ""
+msgstr "Explorar gráficamente las dependencias entre variables"
