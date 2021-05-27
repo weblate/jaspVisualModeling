@@ -19,10 +19,10 @@ Form
 		VariablesForm
 		{
 			height: 150
-			AvailableVariablesList	{ name: "components"	; title: qsTr("Components")	; source: ["variables"] }
+			AvailableVariablesList	{ name: "components"	; title: qsTr("Components")	; source: ["variables"] }		
 			AssignedVariablesList	{ name: "interactions"	; title: qsTr("Fixed terms"); listViewType: JASP.Interaction
-				rowComponentsTitles: ["Add as a random effect"]
-				rowComponents: [ Component { CheckBox { name: "randeff2" } } ]
+				rowComponentTitle: qsTr("Add as a random effect")
+				rowComponent: CheckBox { name: "randeff2" }
 			}
 		}
 	}

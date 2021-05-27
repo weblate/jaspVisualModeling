@@ -21,9 +21,9 @@ Form
 		{
 			height: 150
 			AvailableVariablesList	{ name: "components"	; title: qsTr("Components")	; source: ["variables"] }
-			AssignedVariablesList	{ name: "interactions"	; id: "interactions" ; title: qsTr("Model terms"); listViewType: JASP.Interaction
-				rowComponentsTitles: ["Add as a polynomial"]
-				rowComponents: [ Component { CheckBox { name: "polynoms" } } ]
+			AssignedVariablesList	{ name: "interactions"	; id: interactions ; title: qsTr("Model terms"); listViewType: JASP.Interaction
+				rowComponentTitle: qsTr("Add as a polynomial")
+				rowComponent: CheckBox { name: "polynoms" }
 			}
 		}
 	}
