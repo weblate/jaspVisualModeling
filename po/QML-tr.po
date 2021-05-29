@@ -388,3 +388,11 @@ msgstr ""
 msgctxt "Description|"
 msgid "Graphically explore the dependencies between variables"
 msgstr ""
+
+msgctxt "linmod|"
+msgid "Add as a polynomial"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Add as a random effect"
+msgstr ""

@@ -391,3 +391,11 @@ msgstr "Cantidad de clusters"
 msgctxt "Description|"
 msgid "Graphically explore the dependencies between variables"
 msgstr "Explorar gráficamente las dependencias entre variables"
+
+msgctxt "linmod|"
+msgid "Add as a polynomial"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Add as a random effect"
+msgstr ""
