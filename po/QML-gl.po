@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: gl_ES\n"
+"X-Language: gl_ES\n"
+"X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
+
+msgctxt "Flexplot|"
+msgid "Dependent Variable"
+msgstr "Variable dependente"
+
+msgctxt "Flexplot|"
+msgid "Options"
+msgstr "Opcións"
+
+msgctxt "mixedmod|"
+msgid "Model plot"
+msgstr "Gráfica do modelo"
+
+msgctxt "mixedmod|"
+msgid "Estimation"
+msgstr "Estimación"
+
+msgctxt "Description|"
+msgid "Linear Modeling"
+msgstr "Modelado linear"
+
+msgctxt "Description|"
+msgid "Flexplot"
+msgstr "Flexplot"
+
+msgctxt "Description|"
+msgid "Mixed Modeling"
+msgstr "Modelado mixto"
+
+msgctxt "Description|"
+msgid "Generalized Linear Modeling"
+msgstr "Modelado linear xeral"
+
+msgctxt "Description|"
+msgid "Visual Modeling"
+msgstr "Modelado visual"
+
+msgctxt "mixedmod|"
+msgid "Diagnostics"
+msgstr "Diagnósticos"
+
+msgctxt "Flexplot|"
+msgid "GGplot theme"
+msgstr "Esquema GGplot de cores"
+
+msgctxt "glinmod|"
+msgid "Show parameter Estimates"
+msgstr "Amosar as estimacións dos parámetros"
+
+msgctxt "mixedmod|"
+msgid "Plot Controls"
+msgstr "Controis da gráfica"
+
+msgctxt "glinmod|"
+msgid "Distribution family"
+msgstr "Familia de distribucións"
+
+msgctxt "Flexplot|"
+msgid "Point transparency"
+msgstr "Transparencia por punto"
+
+msgctxt "mixedmod|"
+msgid "Point controls"
+msgstr "Controis de puntos"
+
+msgctxt "Flexplot|"
+msgid "Ghost lines"
+msgstr "Liñas espurias"
+
+msgctxt "Flexplot|"
+msgid "Independent Variable(s)"
+msgstr "Variable(s) independente(s)"
+
+msgctxt "glinmod|"
+msgid "Interaction terms"
+msgstr "Termos de interacción"
+
+msgctxt "glinmod|"
+msgid "Univariates"
+msgstr "Univariantes"
+
+msgctxt "linmod|"
+msgid "Aesthetics"
+msgstr "Estética"
+
+msgctxt "Flexplot|"
+msgid "Jitter in X"
+msgstr "Dispersión en X"
+
+msgctxt "Flexplot|"
+msgid "Jitter in Y"
+msgstr "Dispersión en Y"
+
+msgctxt "mixedmod|"
+msgid "Results Displays"
+msgstr "Presentacións de resultados"
+
+msgctxt "Flexplot|"
+msgid "Fitted line (scatterplots)"
+msgstr "Liña de axuste (Gráficas de dispersión)"
+
+msgctxt "linmod|"
+msgid "Show 95% intervals"
+msgstr "Amosar os intervalos co 95%"
+
+msgctxt "linmod|"
+msgid "Report means"
+msgstr "Informar das medias"
+
+msgctxt "linmod|"
+msgid "Added variable plot"
+msgstr "Gráfica de variable engadida"
+
+msgctxt "linmod|"
+msgid "Show slopes/intercepts"
+msgstr "Amosar as pendentes/constantes"
+
+msgctxt "linmod|"
+msgid "Show mean differences"
+msgstr "Amosar as diferencias nas medias"
+
+msgctxt "Flexplot|"
+msgid "Convert to grayscale"
+msgstr "Converter a escala de grises"
+
+msgctxt "linmod|"
+msgid "Univariate"
+msgstr "Univariante"
+
+msgctxt "linmod|"
+msgid "Show p-values"
+msgstr "Amosar os valores p"
+
+msgctxt "linmod|"
+msgid "Visual Fitting"
+msgstr "Axuste visual"
+
+msgctxt "linmod|"
+msgid "Show model comparisons"
+msgstr "Amosar as comparacións dos modelos"
+
+msgctxt "mixedmod|"
+msgid "Number of clusters"
+msgstr "Número de conglomerados"
+
+msgctxt "mixedmod|"
+msgid "Random"
+msgstr "Aleatorio"
+
+msgctxt "mixedmod|"
+msgid "Fixed terms"
+msgstr "Termos fixos"
+
+msgctxt "mixedmod|"
+msgid "Report fixed effects"
+msgstr "Informar dos efectos fixos"
+
+msgctxt "mixedmod|"
+msgid "Report random effects"
+msgstr "Informar dos efectos aleatorios"
+
+msgctxt "mixedmod|"
+msgid "Univariate plots"
+msgstr "Gráficas univariantes"
+
+msgctxt "mixedmod|"
+msgid "Other parameters"
+msgstr "Outros parámetros"
+
+msgctxt "mixedmod|"
+msgid "Model Builder"
+msgstr "Creador de modelos"
+
+msgctxt "Flexplot|"
+msgid "<br><strong>Plot Labels</strong>"
+msgstr "<br><strong>Etiquetas das gráficas</strong>"
+
+msgctxt "Flexplot|"
+msgid "<strong>Visual Statistics</strong>"
+msgstr "<strong>Estatísticos gráficos</strong>"
+
+msgctxt "Flexplot|"
+msgid "Plot Labels"
+msgstr "Etiquetas da gráfica"
+
+msgctxt "Flexplot|"
+msgid "Intervals (categorical predictors)"
+msgstr "Intervalos (Preditores categóricos)"
+
+msgctxt "Flexplot|"
+msgid "Paneled Variable(s)"
+msgstr "Variable(s) de panel"
+
+msgctxt "Flexplot|"
+msgid "<br><strong>Point controls</br></strong>"
+msgstr "<br><strong>Controles de punto</br></strong>"
+
+msgctxt "Flexplot|"
+msgid "Color Palette"
+msgstr "Paleta de cores"
+
+msgctxt "Flexplot|"
+msgid "<br><strong>Other Plot Controls</strong>"
+msgstr "<br><strong>Outros controis da gráfica</strong>"
+
+msgctxt "Flexplot|"
+msgid "Plot confidence bands"
+msgstr "Representar as franxas de confianza"
+
+msgctxt "Description|"
+msgid "Graphically explore the dependencies between variables"
+msgstr ""
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Dependent Variable"
+msgstr "Variable dependente"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Independent Variable(s)"
+msgstr "Variable(s) independente(s)"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Components"
+msgstr "Compoñentes"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Model terms"
+msgstr "Elementos do modelo"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Results Displays"
+msgstr "Presentacións de resultados"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Plots"
+msgstr "Gráficas"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Model plot"
+msgstr "Gráfica do modelo"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Estimation"
+msgstr "Estimación"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Plot Controls"
+msgstr "Controis da gráfica"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Point controls"
+msgstr "Controis de puntos"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Point transparency"
+msgstr "Transparencia por punto"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Jitter in X"
+msgstr "Dispersión en X"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Jitter in Y"
+msgstr "Dispersión en Y"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Aesthetics"
+msgstr "Estética"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "GGplot theme"
+msgstr "Esquema GGplot de cores"
+
+#, fuzzy
+msgctxt "glinmod|"
+msgid "Ghost lines"
+msgstr "Liñas espurias"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Dependent Variable"
+msgstr "Variable dependente"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Independent Variable(s)"
+msgstr "Variable(s) independente(s)"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Model Terms"
+msgstr "Elementos do modelo"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Components"
+msgstr "Compoñentes"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Model terms"
+msgstr "Elementos do modelo"
+
+msgctxt "linmod|"
+msgid "Add as a polynomial"
+msgstr ""
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Fitted line (scatterplots)"
+msgstr "Liña de axuste (Gráficas de dispersión)"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Results Displays"
+msgstr "Presentacións de resultados"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Plots"
+msgstr "Gráficas"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Model plot"
+msgstr "Gráfica do modelo"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Diagnostics"
+msgstr "Diagnósticos"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Estimation"
+msgstr "Estimación"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Plot Controls"
+msgstr "Controis da gráfica"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Point controls"
+msgstr "Controis de puntos"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Point transparency"
+msgstr "Transparencia por punto"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Jitter in X"
+msgstr "Dispersión en X"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Jitter in Y"
+msgstr "Dispersión en Y"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "GGplot theme"
+msgstr "Esquema GGplot de cores"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Convert to grayscale"
+msgstr "Converter a escala de grises"
+
+#, fuzzy
+msgctxt "linmod|"
+msgid "Ghost lines"
+msgstr "Liñas espurias"
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Dependent Variable"
+msgstr "Variable dependente"
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Independent Variable(s)"
+msgstr "Variable(s) independente(s)"
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Components"
+msgstr "Compoñentes"
+
+msgctxt "mixedmod|"
+msgid "Add as a random effect"
+msgstr ""
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Plots"
+msgstr "Gráficas"
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Point transparency"
+msgstr "Transparencia por punto"
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Jitter in X"
+msgstr "Dispersión en X"
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "Jitter in Y"
+msgstr "Dispersión en Y"
+
+#, fuzzy
+msgctxt "mixedmod|"
+msgid "GGplot theme"
+msgstr "Esquema GGplot de cores"
