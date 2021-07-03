@@ -3,13 +3,15 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: ja\n"
 "X-Qt-Contexts: true\n"
 
 msgctxt "Description|"
 msgid "Visual Modeling"
-msgstr "ビジュアルモデリング"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Graphically explore the dependencies between variables"
+msgstr ""
 
 msgctxt "Description|"
 msgid "Flexplot"
@@ -204,6 +206,10 @@ msgid "Model terms"
 msgstr ""
 
 msgctxt "linmod|"
+msgid "Add as a polynomial"
+msgstr ""
+
+msgctxt "linmod|"
 msgid "Visual Fitting"
 msgstr ""
 
@@ -324,6 +330,10 @@ msgid "Fixed terms"
 msgstr ""
 
 msgctxt "mixedmod|"
+msgid "Add as a random effect"
+msgstr ""
+
+msgctxt "mixedmod|"
 msgid "Results Displays"
 msgstr ""
 
@@ -385,16 +395,4 @@ msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Number of clusters"
-msgstr ""
-
-msgctxt "Description|"
-msgid "Graphically explore the dependencies between variables"
-msgstr ""
-
-msgctxt "linmod|"
-msgid "Add as a polynomial"
-msgstr ""
-
-msgctxt "mixedmod|"
-msgid "Add as a random effect"
 msgstr ""
