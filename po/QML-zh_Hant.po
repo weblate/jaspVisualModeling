@@ -9,408 +9,408 @@ msgstr ""
 
 msgctxt "Description|"
 msgid "Visual Modeling"
-msgstr ""
+msgstr "視覺化建模"
 
 msgctxt "Description|"
 msgid "Graphically explore the dependencies between variables"
-msgstr ""
+msgstr "以圖形方式探索變項之間的相依關係"
 
 msgctxt "Description|"
 msgid "Flexplot"
-msgstr ""
+msgstr "Flexplot"
 
 msgctxt "Description|"
 msgid "Linear Modeling"
-msgstr ""
+msgstr "線性建模"
 
 msgctxt "Description|"
 msgid "Mixed Modeling"
-msgstr ""
+msgstr "混合建模"
 
 msgctxt "Description|"
 msgid "Generalized Linear Modeling"
-msgstr ""
+msgstr "廣義線性建模"
 
 msgctxt "glinmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "依變數"
 
 msgctxt "glinmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "自變數"
 
 msgctxt "glinmod|"
 msgid "Normal"
-msgstr ""
+msgstr "常態"
 
 msgctxt "glinmod|"
 msgid "Logistic"
-msgstr ""
+msgstr "羅吉斯"
 
 msgctxt "glinmod|"
 msgid "Poisson"
-msgstr ""
+msgstr "卜瓦松"
 
 msgctxt "glinmod|"
 msgid "Gamma"
-msgstr ""
+msgstr "伽瑪"
 
 msgctxt "glinmod|"
 msgid "Distribution family"
-msgstr ""
+msgstr "分配家族"
 
 msgctxt "glinmod|"
 msgid "Interaction terms"
-msgstr ""
+msgstr "交互作用項"
 
 msgctxt "glinmod|"
 msgid "Components"
-msgstr ""
+msgstr "成分"
 
 msgctxt "glinmod|"
 msgid "Model terms"
-msgstr ""
+msgstr "模型項"
 
 msgctxt "glinmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "結果顯示"
 
 msgctxt "glinmod|"
 msgid "Plots"
-msgstr ""
+msgstr "圖"
 
 msgctxt "glinmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "模型圖"
 
 msgctxt "glinmod|"
 msgid "Univariates"
-msgstr ""
+msgstr "單變項"
 
 msgctxt "glinmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "估計"
 
 msgctxt "glinmod|"
 msgid "Show parameter Estimates"
-msgstr ""
+msgstr "顯示參數估計值"
 
 msgctxt "glinmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "圖形控制"
 
 msgctxt "glinmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "點控制"
 
 msgctxt "glinmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "點透明度"
 
 msgctxt "glinmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "X 軸的抖動"
 
 msgctxt "glinmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Y 軸的抖動"
 
 msgctxt "glinmod|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "美學設定"
 
 msgctxt "glinmod|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "glinmod|"
 msgid "Black and white"
-msgstr ""
+msgstr "黑白"
 
 msgctxt "glinmod|"
 msgid "Minimal"
-msgstr ""
+msgstr "極簡"
 
 msgctxt "glinmod|"
 msgid "Classic"
-msgstr ""
+msgstr "經典"
 
 msgctxt "glinmod|"
 msgid "Dark"
-msgstr ""
+msgstr "深色"
 
 msgctxt "glinmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "GGplot 主題"
 
 msgctxt "glinmod|"
 msgid "Ghost lines"
-msgstr ""
+msgstr "鬼影線"
 
 msgctxt "linmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "依變數"
 
 msgctxt "linmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "自變數"
 
 msgctxt "linmod|"
 msgid "Model Terms"
-msgstr ""
+msgstr "模型項"
 
 msgctxt "linmod|"
 msgid "Components"
-msgstr ""
+msgstr "成分"
 
 msgctxt "linmod|"
 msgid "Model terms"
-msgstr ""
+msgstr "模型項"
 
 msgctxt "linmod|"
 msgid "Add as a polynomial"
-msgstr ""
+msgstr "以多項式加入"
 
 msgctxt "linmod|"
 msgid "Visual Fitting"
-msgstr ""
+msgstr "視覺化配適"
 
 msgctxt "linmod|"
 msgid "Regression"
-msgstr ""
+msgstr "迴歸"
 
 msgctxt "linmod|"
 msgid "Quadratic"
-msgstr ""
+msgstr "二次"
 
 msgctxt "linmod|"
 msgid "Cubic"
-msgstr ""
+msgstr "三次"
 
 msgctxt "linmod|"
 msgid "Fitted line (scatterplots)"
-msgstr ""
+msgstr "配適線（散佈圖）"
 
 msgctxt "linmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "結果顯示"
 
 msgctxt "linmod|"
 msgid "Plots"
-msgstr ""
+msgstr "圖"
 
 msgctxt "linmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "模型圖"
 
 msgctxt "linmod|"
 msgid "Univariate"
-msgstr ""
+msgstr "單變項"
 
 msgctxt "linmod|"
 msgid "Diagnostics"
-msgstr ""
+msgstr "診斷"
 
 msgctxt "linmod|"
 msgid "Added variable plot"
-msgstr ""
+msgstr "加入變項圖"
 
 msgctxt "linmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "估計"
 
 msgctxt "linmod|"
 msgid "Show model comparisons"
-msgstr ""
+msgstr "顯示模型比較"
 
 msgctxt "linmod|"
 msgid "Report means"
-msgstr ""
+msgstr "報告平均數"
 
 msgctxt "linmod|"
 msgid "Show mean differences"
-msgstr ""
+msgstr "顯示平均數差異"
 
 msgctxt "linmod|"
 msgid "Show slopes/intercepts"
-msgstr ""
+msgstr "顯示斜率/截距"
 
 msgctxt "linmod|"
 msgid "Show 95% intervals"
-msgstr ""
+msgstr "顯示 95% 區間"
 
 msgctxt "linmod|"
 msgid "Show p-values"
-msgstr ""
+msgstr "顯示 p 值"
 
 msgctxt "linmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "圖形控制"
 
 msgctxt "linmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "點控制"
 
 msgctxt "linmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "點透明度"
 
 msgctxt "linmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "X 軸的抖動"
 
 msgctxt "linmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Y 軸的抖動"
 
 msgctxt "linmod|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "美學設定"
 
 msgctxt "linmod|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "linmod|"
 msgid "Black and white"
-msgstr ""
+msgstr "黑白"
 
 msgctxt "linmod|"
 msgid "Minimal"
-msgstr ""
+msgstr "極簡"
 
 msgctxt "linmod|"
 msgid "Classic"
-msgstr ""
+msgstr "經典"
 
 msgctxt "linmod|"
 msgid "Dark"
-msgstr ""
+msgstr "深色"
 
 msgctxt "linmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "GGplot 主題"
 
 msgctxt "linmod|"
 msgid "Convert to grayscale"
-msgstr ""
+msgstr "轉為灰階"
 
 msgctxt "linmod|"
 msgid "Ghost lines"
-msgstr ""
+msgstr "鬼影線"
 
 msgctxt "mixedmod|"
 msgid "Dependent Variable"
-msgstr ""
+msgstr "依變數"
 
 msgctxt "mixedmod|"
 msgid "Independent Variable(s)"
-msgstr ""
+msgstr "自變數"
 
 msgctxt "mixedmod|"
 msgid "Random"
-msgstr ""
+msgstr "隨機"
 
 msgctxt "mixedmod|"
 msgid "Model Builder"
-msgstr ""
+msgstr "模型建置器"
 
 msgctxt "mixedmod|"
 msgid "Components"
-msgstr ""
+msgstr "成分"
 
 msgctxt "mixedmod|"
 msgid "Fixed terms"
-msgstr ""
+msgstr "固定項"
 
 msgctxt "mixedmod|"
 msgid "Add as a random effect"
-msgstr ""
+msgstr "以隨機效果加入"
 
 msgctxt "mixedmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "結果顯示"
 
 msgctxt "mixedmod|"
 msgid "Plots"
-msgstr ""
+msgstr "圖"
 
 msgctxt "mixedmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "模型圖"
 
 msgctxt "mixedmod|"
 msgid "Univariate plots"
-msgstr ""
+msgstr "單變項圖"
 
 msgctxt "mixedmod|"
 msgid "Diagnostics"
-msgstr ""
+msgstr "診斷"
 
 msgctxt "mixedmod|"
 msgid "Estimation"
-msgstr ""
+msgstr "估計"
 
 msgctxt "mixedmod|"
 msgid "Report fixed effects"
-msgstr ""
+msgstr "報告固定效果"
 
 msgctxt "mixedmod|"
 msgid "Report random effects"
-msgstr ""
+msgstr "報告隨機效果"
 
 msgctxt "mixedmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "圖形控制"
 
 msgctxt "mixedmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "點控制"
 
 msgctxt "mixedmod|"
 msgid "Point transparency"
-msgstr ""
+msgstr "點透明度"
 
 msgctxt "mixedmod|"
 msgid "Jitter in X"
-msgstr ""
+msgstr "X 軸的抖動"
 
 msgctxt "mixedmod|"
 msgid "Jitter in Y"
-msgstr ""
+msgstr "Y 軸的抖動"
 
 msgctxt "mixedmod|"
 msgid "Other parameters"
-msgstr ""
+msgstr "其他參數"
 
 msgctxt "mixedmod|"
 msgid "JASP"
-msgstr ""
+msgstr "JASP"
 
 msgctxt "mixedmod|"
 msgid "Black and white"
-msgstr ""
+msgstr "黑白"
 
 msgctxt "mixedmod|"
 msgid "Minimal"
-msgstr ""
+msgstr "極簡"
 
 msgctxt "mixedmod|"
 msgid "Classic"
-msgstr ""
+msgstr "經典"
 
 msgctxt "mixedmod|"
 msgid "Dark"
-msgstr ""
+msgstr "深色"
 
 msgctxt "mixedmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "GGplot 主題"
 
 msgctxt "mixedmod|"
 msgid "Number of clusters"
-msgstr ""
+msgstr "叢集數"
 
 msgctxt "glinmod|"
 msgid "Negative binomial"
-msgstr ""
+msgstr "負二項"
