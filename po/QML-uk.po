@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+"Language: uk\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgctxt "Description|"
+msgid "Visual Modeling"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Flexplot"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Linear Modeling"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Mixed Modeling"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Generalized Linear Modeling"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Dependent Variable"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Independent Variable(s)"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Distribution family"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Interaction terms"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Components"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Model terms"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Results Displays"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Plots"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Model plot"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Univariates"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Estimation"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Show parameter Estimates"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Plot Controls"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Point controls"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Point transparency"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Jitter in X"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Jitter in Y"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Aesthetics"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "GGplot theme"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Ghost lines"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Dependent Variable"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Independent Variable(s)"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Model Terms"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Components"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Model terms"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Visual Fitting"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Fitted line (scatterplots)"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Results Displays"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Plots"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Model plot"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Univariate"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Diagnostics"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Added variable plot"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Estimation"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show model comparisons"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Report means"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show mean differences"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show slopes/intercepts"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show 95% intervals"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Show p-values"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Plot Controls"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Point controls"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Point transparency"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Jitter in X"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Jitter in Y"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Aesthetics"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "GGplot theme"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Convert to grayscale"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Ghost lines"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Dependent Variable"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Independent Variable(s)"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Random"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Model Builder"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Components"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Fixed terms"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Results Displays"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Plots"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Model plot"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Univariate plots"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Diagnostics"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Estimation"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Report fixed effects"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Report random effects"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Plot Controls"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Point controls"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Point transparency"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Jitter in X"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Jitter in Y"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Other parameters"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "GGplot theme"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Number of clusters"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Graphically explore the dependencies between variables"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Add as a polynomial"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Add as a random effect"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Logistic"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Poisson"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Gamma"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Regression"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Quadratic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Cubic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "linmod|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "JASP"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Black and white"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Minimal"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "mixedmod|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "glinmod|"
+msgid "Negative binomial"
+msgstr ""
