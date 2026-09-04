@@ -3,9 +3,15 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Language: fr\n"
 "X-Qt-Contexts: true\n"
+"PO-Revision-Date: 2026-09-04 14:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/jasp/"
+"jaspvisualmodeling-qml/fr/>\n"
+"Language: fr\n"
+"X-Generator: Weblate 2026.9\n"
 
 msgctxt "Description|"
 msgid "Visual Modeling"
@@ -17,7 +23,7 @@ msgstr "Explorer graphiquement les dépendances entre des variables"
 
 msgctxt "Description|"
 msgid "Flexplot"
-msgstr "Flexplot"
+msgstr ""
 
 msgctxt "Description|"
 msgid "Linear Modeling"
@@ -43,55 +49,55 @@ msgstr "Variable(s) Indépendante(s)"
 
 msgctxt "glinmod|"
 msgid "Distribution family"
-msgstr "Famille de distribution"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Interaction terms"
-msgstr "Termes d'interaction"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Components"
-msgstr "Composantes"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Model terms"
-msgstr "Termes du modèle"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Results Displays"
-msgstr "Affichages des résultats"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Plots"
-msgstr "Graphiques"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Model plot"
-msgstr "Graphique du modèle"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Univariates"
-msgstr "Univariés"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Estimation"
-msgstr "Estimation"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Show parameter Estimates"
-msgstr "Afficher les estimations des paramètres"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Plot Controls"
-msgstr "Contrôles du graphique"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Point controls"
-msgstr "Contrôles des points"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Point transparency"
-msgstr "Transparence des points"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Jitter in X"
@@ -103,7 +109,7 @@ msgstr "Jitter en Y"
 
 msgctxt "glinmod|"
 msgid "Aesthetics"
-msgstr "Esthétiques"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "GGplot theme"
@@ -123,91 +129,91 @@ msgstr "Variable(s) Indépendante(s)"
 
 msgctxt "linmod|"
 msgid "Model Terms"
-msgstr "Termes du modèle"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Components"
-msgstr "Composantes"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Model terms"
-msgstr "Termes du modèle"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Add as a polynomial"
-msgstr "Ajouter comme polynôme"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Visual Fitting"
-msgstr "Ajustement visuel"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Fitted line (scatterplots)"
-msgstr "Ligne ajustée (nuages de points)"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Results Displays"
-msgstr "Affichages des résultats"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Plots"
-msgstr "Graphiques"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Model plot"
-msgstr "Graphique du modèle"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Univariate"
-msgstr "Univarié"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Diagnostics"
-msgstr "Diagnostics"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Added variable plot"
-msgstr "Graphique de variable ajoutée"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Estimation"
-msgstr "Estimation"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Show model comparisons"
-msgstr "Afficher les comparaisons de modèles"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Report means"
-msgstr "Rapporter les moyennes"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Show mean differences"
-msgstr "Afficher les différences de moyennes"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Show slopes/intercepts"
-msgstr "Afficher les pentes/ordonnées à l'origine"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Show 95% intervals"
-msgstr "Afficher les intervalles de 95 %"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Show p-values"
-msgstr "Afficher les valeurs p"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Plot Controls"
-msgstr "Contrôles du graphique"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Point controls"
-msgstr "Contrôles des points"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Point transparency"
-msgstr "Transparence des points"
+msgstr ""
 
 #, fuzzy
 msgctxt "linmod|"
@@ -221,7 +227,7 @@ msgstr "Jitter en Y"
 
 msgctxt "linmod|"
 msgid "Aesthetics"
-msgstr "Esthétiques"
+msgstr ""
 
 #, fuzzy
 msgctxt "linmod|"
@@ -250,67 +256,67 @@ msgstr "Variable(s) Indépendante(s)"
 
 msgctxt "mixedmod|"
 msgid "Random"
-msgstr "Aléatoire"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Model Builder"
-msgstr "Constructeur de modèle"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Components"
-msgstr "Composantes"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Fixed terms"
-msgstr "Termes fixes"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Add as a random effect"
-msgstr "Ajouter comme effet aléatoire"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Results Displays"
-msgstr "Affichages des résultats"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Plots"
-msgstr "Graphiques"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Model plot"
-msgstr "Graphique du modèle"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Univariate plots"
-msgstr "Graphiques univariés"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Diagnostics"
-msgstr "Diagnostics"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Estimation"
-msgstr "Estimation"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Report fixed effects"
-msgstr "Rapporter les effets fixes"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Report random effects"
-msgstr "Rapporter les effets aléatoires"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Plot Controls"
-msgstr "Contrôles du graphique"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Point controls"
-msgstr "Contrôles des points"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Point transparency"
-msgstr "Transparence des points"
+msgstr ""
 
 #, fuzzy
 msgctxt "mixedmod|"
@@ -324,7 +330,7 @@ msgstr "Jitter en Y"
 
 msgctxt "mixedmod|"
 msgid "Other parameters"
-msgstr "Autres paramètres"
+msgstr ""
 
 #, fuzzy
 msgctxt "mixedmod|"
@@ -333,96 +339,96 @@ msgstr "Thème GGplot"
 
 msgctxt "mixedmod|"
 msgid "Number of clusters"
-msgstr "Nombre de grappes"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Normal"
-msgstr "Normale"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Logistic"
-msgstr "Logistique"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Poisson"
-msgstr "Poisson"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Gamma"
-msgstr "Gamma"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "JASP"
-msgstr "JASP"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Black and white"
-msgstr "Noir et blanc"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Minimal"
-msgstr "Minimal"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Classic"
-msgstr "Classique"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Dark"
-msgstr "Sombre"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Regression"
-msgstr "Régression"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Quadratic"
-msgstr "Quadratique"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Cubic"
-msgstr "Cubique"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "JASP"
-msgstr "JASP"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Black and white"
-msgstr "Noir et blanc"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Minimal"
-msgstr "Minimal"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Classic"
-msgstr "Classique"
+msgstr ""
 
 msgctxt "linmod|"
 msgid "Dark"
-msgstr "Sombre"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "JASP"
-msgstr "JASP"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Black and white"
-msgstr "Noir et blanc"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Minimal"
-msgstr "Minimal"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Classic"
-msgstr "Classique"
+msgstr ""
 
 msgctxt "mixedmod|"
 msgid "Dark"
-msgstr "Sombre"
+msgstr ""
 
 msgctxt "glinmod|"
 msgid "Negative binomial"
-msgstr "Binomiale négative"
+msgstr ""
