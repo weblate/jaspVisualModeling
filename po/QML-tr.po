@@ -7,7 +7,7 @@ msgstr ""
 "X-Language: tr\n"
 "X-Qt-Contexts: true\n"
 "PO-Revision-Date: 2026-09-04 14:28+0000\n"
-"Last-Translator: Ünal Halit ÖZDEN <uozden@ticaret.edu.tr>\n"
+"Last-Translator: Ertuğrul Uyar <ertugruluyar.academic@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/tr/>\n"
 "Language: tr\n"
@@ -105,7 +105,6 @@ msgctxt "glinmod|"
 msgid "Aesthetics"
 msgstr ""
 
-#, fuzzy
 msgctxt "glinmod|"
 msgid "GGplot theme"
 msgstr "GGplot teması"
@@ -114,15 +113,13 @@ msgctxt "glinmod|"
 msgid "Ghost lines"
 msgstr ""
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Dependent Variable"
-msgstr "Bağımlı değişken"
+msgstr "Bağımlı Değişken"
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Independent Variable(s)"
-msgstr "Bağımsız değişkenler"
+msgstr "Bağımsız Değişken(ler)"
 
 msgctxt "linmod|"
 msgid "Model Terms"
