@@ -6,6 +6,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: id\n"
 "X-Qt-Contexts: true\n"
+"PO-Revision-Date: 2026-09-04 14:29+0000\n"
+"Last-Translator: Zahid Rizky Fakhri <zahidrizkyfakhri@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/jasp/"
+"jaspvisualmodeling-qml/id/>\n"
+"Language: id\n"
+"X-Generator: Weblate 2026.9\n"
 
 msgctxt "Description|"
 msgid "Visual Modeling"
@@ -17,7 +23,7 @@ msgstr "Jelajahi dependensi antar variabel secara grafis"
 
 msgctxt "Description|"
 msgid "Flexplot"
-msgstr "Flexplot"
+msgstr "Diagram Fleksibel"
 
 msgctxt "Description|"
 msgid "Linear Modeling"
@@ -31,7 +37,6 @@ msgctxt "Description|"
 msgid "Generalized Linear Modeling"
 msgstr "Pemodelan Linier Umum"
 
-#, fuzzy
 msgctxt "glinmod|"
 msgid "Dependent Variable"
 msgstr "Variabel Dependen"
@@ -43,11 +48,11 @@ msgstr "Variabel Independen"
 
 msgctxt "glinmod|"
 msgid "Distribution family"
-msgstr ""
+msgstr "Keluarga distribusi"
 
 msgctxt "glinmod|"
 msgid "Interaction terms"
-msgstr ""
+msgstr "Istilah interaksi"
 
 msgctxt "glinmod|"
 msgid "Components"
@@ -55,11 +60,11 @@ msgstr "Komponen"
 
 msgctxt "glinmod|"
 msgid "Model terms"
-msgstr ""
+msgstr "Istilah model"
 
 msgctxt "glinmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "Tampilan Hasil"
 
 msgctxt "glinmod|"
 msgid "Plots"
@@ -67,57 +72,52 @@ msgstr "Plot"
 
 msgctxt "glinmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "Plot model"
 
 msgctxt "glinmod|"
 msgid "Univariates"
-msgstr ""
+msgstr "Univariat"
 
-#, fuzzy
 msgctxt "glinmod|"
 msgid "Estimation"
 msgstr "Estimasi"
 
 msgctxt "glinmod|"
 msgid "Show parameter Estimates"
-msgstr ""
+msgstr "Tampilkan parameter Estimasi"
 
 msgctxt "glinmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "Kontrol Plot"
 
 msgctxt "glinmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "Kontrol titik"
 
-#, fuzzy
 msgctxt "glinmod|"
 msgid "Point transparency"
 msgstr "Transparansi titik"
 
-#, fuzzy
 msgctxt "glinmod|"
 msgid "Jitter in X"
-msgstr "Jitter di X"
+msgstr "Getaran di X"
 
-#, fuzzy
 msgctxt "glinmod|"
 msgid "Jitter in Y"
-msgstr "Jitter di Y"
+msgstr "Getaran di Y"
 
 msgctxt "glinmod|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "Estetika"
 
 msgctxt "glinmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "Tema GGplot"
 
 msgctxt "glinmod|"
 msgid "Ghost lines"
-msgstr ""
+msgstr "Garis hantu"
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Dependent Variable"
 msgstr "Variabel Dependen"
@@ -129,32 +129,31 @@ msgstr "Variabel Independen"
 
 msgctxt "linmod|"
 msgid "Model Terms"
-msgstr ""
+msgstr "Istilah Model"
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Components"
 msgstr "Komponen"
 
 msgctxt "linmod|"
 msgid "Model terms"
-msgstr ""
+msgstr "Istilah model"
 
 msgctxt "linmod|"
 msgid "Add as a polynomial"
-msgstr ""
+msgstr "Tambahkan sebagai polinomial"
 
 msgctxt "linmod|"
 msgid "Visual Fitting"
-msgstr ""
+msgstr "Penyesuaian Visual"
 
 msgctxt "linmod|"
 msgid "Fitted line (scatterplots)"
-msgstr ""
+msgstr "Garis yang dipasang (scatterplot)"
 
 msgctxt "linmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "Tampilan Hasil"
 
 msgctxt "linmod|"
 msgid "Plots"
@@ -162,11 +161,11 @@ msgstr "Plot"
 
 msgctxt "linmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "Plot model"
 
 msgctxt "linmod|"
 msgid "Univariate"
-msgstr ""
+msgstr "Univariat"
 
 msgctxt "linmod|"
 msgid "Diagnostics"
@@ -174,77 +173,72 @@ msgstr "Diagnostik"
 
 msgctxt "linmod|"
 msgid "Added variable plot"
-msgstr ""
+msgstr "Menambahkan plot variabel"
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Estimation"
 msgstr "Estimasi"
 
 msgctxt "linmod|"
 msgid "Show model comparisons"
-msgstr ""
+msgstr "Tampilkan perbandingan model"
 
 msgctxt "linmod|"
 msgid "Report means"
-msgstr ""
+msgstr "Laporan rata-rata"
 
 msgctxt "linmod|"
 msgid "Show mean differences"
-msgstr ""
+msgstr "Tampilkan perbedaan rata-rata"
 
 msgctxt "linmod|"
 msgid "Show slopes/intercepts"
-msgstr ""
+msgstr "Tampilkan kemiringan/intersep"
 
 msgctxt "linmod|"
 msgid "Show 95% intervals"
-msgstr ""
+msgstr "Tampilkan interval 95%"
 
 msgctxt "linmod|"
 msgid "Show p-values"
-msgstr ""
+msgstr "Tampilkan nilai-p"
 
 msgctxt "linmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "Kontrol Plot"
 
 msgctxt "linmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "Kontrol titik"
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Point transparency"
 msgstr "Transparansi titik"
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Jitter in X"
-msgstr "Jitter di X"
+msgstr "Getaran di X"
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Jitter in Y"
-msgstr "Jitter di Y"
+msgstr "Getaran di Y"
 
 msgctxt "linmod|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "Estetika"
 
 msgctxt "linmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "Tema GGplot"
 
 msgctxt "linmod|"
 msgid "Convert to grayscale"
-msgstr ""
+msgstr "Ubah ke skala abu-abu"
 
 msgctxt "linmod|"
 msgid "Ghost lines"
-msgstr ""
+msgstr "Garis hantu"
 
-#, fuzzy
 msgctxt "mixedmod|"
 msgid "Dependent Variable"
 msgstr "Variabel Dependen"
@@ -260,7 +254,7 @@ msgstr "Acak"
 
 msgctxt "mixedmod|"
 msgid "Model Builder"
-msgstr ""
+msgstr "Pembuat Model"
 
 msgctxt "mixedmod|"
 msgid "Components"
@@ -268,15 +262,15 @@ msgstr "Komponen"
 
 msgctxt "mixedmod|"
 msgid "Fixed terms"
-msgstr ""
+msgstr "Istilah tetap"
 
 msgctxt "mixedmod|"
 msgid "Add as a random effect"
-msgstr ""
+msgstr "Tambahkan sebagai efek acak"
 
 msgctxt "mixedmod|"
 msgid "Results Displays"
-msgstr ""
+msgstr "Tampilan Hasil"
 
 msgctxt "mixedmod|"
 msgid "Plots"
@@ -284,13 +278,12 @@ msgstr "Plot"
 
 msgctxt "mixedmod|"
 msgid "Model plot"
-msgstr ""
+msgstr "Plot model"
 
 msgctxt "mixedmod|"
 msgid "Univariate plots"
-msgstr ""
+msgstr "Plot univariat"
 
-#, fuzzy
 msgctxt "mixedmod|"
 msgid "Diagnostics"
 msgstr "Diagnostik"
@@ -301,46 +294,43 @@ msgstr "Estimasi"
 
 msgctxt "mixedmod|"
 msgid "Report fixed effects"
-msgstr ""
+msgstr "Laporkan efek tetap"
 
 msgctxt "mixedmod|"
 msgid "Report random effects"
-msgstr ""
+msgstr "Laporkan efek acak"
 
 msgctxt "mixedmod|"
 msgid "Plot Controls"
-msgstr ""
+msgstr "Kontrol Plot"
 
 msgctxt "mixedmod|"
 msgid "Point controls"
-msgstr ""
+msgstr "Kontrol titik"
 
-#, fuzzy
 msgctxt "mixedmod|"
 msgid "Point transparency"
 msgstr "Transparansi titik"
 
-#, fuzzy
 msgctxt "mixedmod|"
 msgid "Jitter in X"
-msgstr "Jitter di X"
+msgstr "Getaran di X"
 
-#, fuzzy
 msgctxt "mixedmod|"
 msgid "Jitter in Y"
-msgstr "Jitter di Y"
+msgstr "Getaran di Y"
 
 msgctxt "mixedmod|"
 msgid "Other parameters"
-msgstr ""
+msgstr "Parameter lainnya"
 
 msgctxt "mixedmod|"
 msgid "GGplot theme"
-msgstr ""
+msgstr "Tema GGplot"
 
 msgctxt "mixedmod|"
 msgid "Number of clusters"
-msgstr ""
+msgstr "Jumlah klaster"
 
 msgctxt "glinmod|"
 msgid "Normal"
@@ -352,11 +342,11 @@ msgstr "Logistik"
 
 msgctxt "glinmod|"
 msgid "Poisson"
-msgstr ""
+msgstr "Ikan"
 
 msgctxt "glinmod|"
 msgid "Gamma"
-msgstr ""
+msgstr "Gamma"
 
 msgctxt "glinmod|"
 msgid "JASP"
@@ -432,4 +422,4 @@ msgstr "Gelap"
 
 msgctxt "glinmod|"
 msgid "Negative binomial"
-msgstr ""
+msgstr "Binomial negatif"
