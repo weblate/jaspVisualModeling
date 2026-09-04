@@ -7,7 +7,7 @@ msgstr ""
 "X-Language: id\n"
 "X-Qt-Contexts: true\n"
 "PO-Revision-Date: 2026-09-04 14:29+0000\n"
-"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
+"Last-Translator: Kayla Simorangkir <tatacrea.k@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jasp/"
 "jaspvisualmodeling-qml/id/>\n"
 "Language: id\n"
@@ -41,10 +41,9 @@ msgctxt "glinmod|"
 msgid "Dependent Variable"
 msgstr "Variabel Dependen"
 
-#, fuzzy
 msgctxt "glinmod|"
 msgid "Independent Variable(s)"
-msgstr "Variabel Independen"
+msgstr "Variabel Bebas"
 
 msgctxt "glinmod|"
 msgid "Distribution family"
@@ -122,10 +121,9 @@ msgctxt "linmod|"
 msgid "Dependent Variable"
 msgstr "Variabel Dependen"
 
-#, fuzzy
 msgctxt "linmod|"
 msgid "Independent Variable(s)"
-msgstr "Variabel Independen"
+msgstr "Variabel Bebas"
 
 msgctxt "linmod|"
 msgid "Model Terms"
@@ -243,10 +241,9 @@ msgctxt "mixedmod|"
 msgid "Dependent Variable"
 msgstr "Variabel Dependen"
 
-#, fuzzy
 msgctxt "mixedmod|"
 msgid "Independent Variable(s)"
-msgstr "Variabel Independen"
+msgstr "Variabel Bebas"
 
 msgctxt "mixedmod|"
 msgid "Random"
